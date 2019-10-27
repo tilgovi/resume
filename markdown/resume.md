@@ -1,100 +1,115 @@
-Johnny Coder
-============
+Randall Leeds
+=============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Full-stack software architect building solutions for a complex society.
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2005-2009
+:   **BSc, Computer Science; Brown University (Providence, RI)**
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Employment History
+------------------
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+**Remix** (Apr. 2017 — Present)
 
-    *Minor: Awesomeology*
+As an individual contributor and as a founding member of an organization-wide
+front-end engineering working group, I accelerated development and deployment of
+web-based geospatial applications for city transportation planners.
 
-Experience
-----------
+JavaScript + React + Redux, Python, Ruby + Rails, Terraform, Webpack
 
-**Your Most Recent Work Experience:**
+* Developed abstractions to enable rapid migration of an application from
+  Leaflet to Mapbox GL
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Developed organizational capacity to begin continuous deployment of microservices
 
-* First item
+* Transitioned a major project out of active development and prepared it for
+  long term maintenance
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Medal** (Jan. 2016 — Dec. 2016)
 
-**That Other Job You Had**
+As the first full-time engineering hire, I recruited a team of engineers to
+develop solutions for medical records management in clinical and research
+settings.
 
-Also with a short description.
+Python (Django), C#, Amazon Web Services, Docker, Terraform
+
+* Developed infrastructure-as-code supporting deployment under strict compliance
+  requirements
+
+* Established interviewing and onboarding processes for new engineers
+
+**Hypothes.is** (Dec. 2011 — Sep. 2015)
+
+I worked as technical lead of a not-for-profit initiative to develop open source
+annotation services supporting digital research, publishing and pedagogy.
+
+Python (Pyramid), JavaScript (AngularJS), Elasticsearch, PostgreSQL, Amazon Web
+Services, Ansible, Docker
+
+* Contributed to standards for digital annotation as a member of the World Wide
+  Web Consortium (W3C) Web Annotations Working Group
+
+* Developed modern, open-source JavaScript applications, libraries and browser
+  extensions
+
+**Meebo** (Sep. 2009 — Dec. 2011)
+
+Python (Gevent, Twisted), C, Erlang, CouchDB, Cassandra, Redis, Graphite, Nginx,
+Puppet
+
+* Introduced co-routine techniques for reducing memory use and time-to-ship for
+  microservices
+
+* Contributed to Apache CouchDB, becoming an active project maintainer
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Open Source Maintenance
+:   I am a founding contributor to the Apache Annotator (incubating) project, an
+    active maintainer of the Gunicorn WSGI server, and a committer to the
+    Apache CouchDB NoSQL database.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+White House Champions of Change
+:   I co-developed a prototype application for communities to build a directory
+    of social services organizations obtaining an invitation to an Open Data
+    round-table with administration officials and other honorees.
 
 Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+:   **Python:** I have 10 years of professional experience developing real-time
+    messaging systems, Web APIs, and continuous deployment infrastructure.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+:   **JavaScript:** I have 8 years of experience developing web applications and
+    actively follow language proposals and Web Platform development. I have
+    professional experience working with Angular, React, Babel, Webpack, and
+    other popular frameworks and tools.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+:   In addition, I am comfortable working in C, C++, C#, Java, or Erlang, and
+    have a working comprehension of Ruby, Golang and more.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Other Tools
+:   AWS, CouchDB, Docker, Elasticsearch, G Suite, Git, JIRA, PostgreSQL,
+    Terraform, ZFS, Zsh and much more.
 
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Other skills
+------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English (first language)
+     * Spanish (reading/writing)
 
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+* Scrum leadership training
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> [Email](mailto:randall@bleeds.info) •
+> [Github](https://github.com/tilgovi) •
+> [Twitter](https://twitter.com/tilgovi)
