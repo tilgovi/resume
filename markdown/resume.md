@@ -21,39 +21,38 @@ Employment History
 Working across boundaries between product engineering, information security, and
 corporate infrastructure, I accelerated strategic phase transitions to adopt new
 platforms, sunset legacy systems, and unlock collaborations across product teams
-responsibile for business-critical news publishing systems.
+responsibile for business-critical publishing applications.
 
 * Developed a roadmap to replace on-premise network appliances with cloud-native
-  application gateways and establish a foothold for application teams within the
-  publishing group to migrate workloads to the company's new cloud platform
+  application gateways and establish a foothold for application teams to migrate
+  workloads to the company's new cloud platform
 
   * Deployed an internal Istio gateway within new company Kubernetes clusters in
-    AWS to centralize responsibility for traffic ingress within company platform
-    teams and decentralize routing responsibility to publishing product teams
+    AWS to centralize traffic ingress and decentralize routing responsibility
 
-  * Unified authentication, session management, and authorization enforcement in
-    publishing applications, using Open Policy Agent, Ory Hydra, and NextAuth.js
-    to enhance the shared gateway with identity-aware proxy features
+  * Unified authentication, session management, and authorization enforcement
+    using Open Policy Agent, Ory Hydra, and NextAuth.js to enhance gateways with
+    identity-aware proxy features
 
   * Managed team and service dependencies to ensure that transitions to the new
     cloud platform, gateway proxy, and authentication systems were made without
     downtime
 
 * Integrated identity systems to facilitate safer sharing of infrastructure and
-  publishing content across platforms and workloads
+  content across platforms and workloads
 
-  * Aligned identity references across publishing applications and shared Vault
-    clusters to allow workloads across heterogenous deployment platforms to act
-    as service accounts within publishing applications
+  * Aligned identity references across applications and shared Vault clusters to
+    allow workloads across heterogenous deployment platforms to act as service
+    accounts within applications
 
   * Configured identity integrations across cloud providers to ease incremental
     workload migrations
 
-* Provided critical feedback and partnership to the platform engineering teams
-  regarding developer experience and platform features
+* Provided critical feedback and partnership to platform engineering teams on
+  developer experience and platform features
 
 * Championed monorepo adoption to improve collaboration across teams within the
-  publishing engineering group
+  publishing group
 
 **Remix** (Apr. 2017 — Dec. 2019)
 
