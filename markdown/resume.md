@@ -7,52 +7,51 @@ Randall Leeds
 
 ----
 
-Education
----------
-
-2005-2009
-:   **BSc, Computer Science; Brown University (Providence, RI)**
-
 Employment History
 ------------------
 
-**The New York Times** (Jan. 2020 — Jun. 2025)
+**The New York Times** (Sep. 2022 — Jun. 2025)
 
-Working across boundaries between product engineering, information security, and
-corporate infrastructure, I accelerated strategic phase transitions to adopt new
-platforms, sunset legacy systems, and unlock collaborations across product teams
-responsibile for business-critical publishing applications.
+As a Staff Software Engineer, I worked across organizational boundaries between
+product engineering, information security, and corporate infrastructure to speed
+up strategic transitions for business-critical publishing applications.
 
-* Developed a roadmap to replace on-premise network appliances with cloud-native
-  application gateways and establish a foothold for application teams to migrate
-  workloads to the company's new cloud platform
+TypeScript (Next, Express), Java (Spring), Go, Open Policy Agent, Hydra, MySQL,
+Elasticsearch, ActiveMQ, Amazon Web Services, Google Cloud Platform, Kubernetes,
+Istio, Docker, Terraform, Vault
 
-  * Deployed an internal Istio gateway within new company Kubernetes clusters in
-    AWS to centralize traffic ingress and decentralize routing responsibility
+* Architected identity solutions to integrate systems across sub-brands and turn
+  news publishing applications into a company-wide publishing platform
 
-  * Unified authentication, session management, and authorization enforcement
-    using Open Policy Agent, Ory Hydra, and NextAuth.js to enhance gateways with
-    identity-aware proxy features
+* Replaced on-premise network appliances with cloud-native application gateways
+  to migrate the publishing platform to the company's new cloud platform
 
-  * Managed team and service dependencies to ensure that transitions to the new
-    cloud platform, gateway proxy, and authentication systems were made without
-    downtime
-
-* Integrated identity systems to facilitate safer sharing of infrastructure and
-  content across platforms and workloads
-
-  * Aligned identity references across applications and shared Vault clusters to
-    allow workloads across heterogenous deployment platforms to act as service
-    accounts within applications
-
-  * Configured identity integrations across cloud providers to ease incremental
-    workload migrations
+* Configured identity federations to move workload migrations across clouds
 
 * Provided critical feedback and partnership to platform engineering teams on
   developer experience and platform features
 
-* Championed monorepo adoption to improve collaboration across teams within the
-  publishing group
+* Championed monorepo adoption to improve collaboration across teams
+
+**The New York Times** (Jan. 2020 — Sep. 2022)
+
+As a Senior Software Engineer, I enabled new products to ship more quickly by
+working to polish and extend the core collaborative text editing application
+for news publishing.
+
+TypeScript (React, ProseMirror, Express), Google Cloud Platform, Kubernetes,
+Docker, Terraform
+
+* Established safer integration patterns for React and ProseMirror, releasing
+  an open source library that became the basis for text editing development at
+  the company
+
+* Re-architected asynchronous task management to minimize production incidents
+  and improve their recovery time
+
+* Developed an idiomatic REST API for integrations from other applications
+
+* Modernized build, deployment, packaging, linting, and typing
 
 **Remix** (Apr. 2017 — Dec. 2019)
 
@@ -60,7 +59,8 @@ As an individual contributor and as a founding member of an organization-wide
 front-end engineering working group, I accelerated development and deployment of
 web-based geospatial applications for city transportation planners.
 
-JavaScript + React + Redux, Python, Ruby + Rails, Terraform, Webpack
+TypeScript (React), Python (Cython, Celery, Flask), Ruby (Rails), PostgreSQL,
+Redis, Amazon Web Services, Docker, Terraform
 
 * Developed abstractions to enable rapid migration of an application from
   Leaflet to Mapbox GL
@@ -76,7 +76,7 @@ As the first full-time engineering hire, I recruited a team of engineers to
 develop solutions for medical records management in clinical and research
 settings.
 
-Python (Django), C#, Amazon Web Services, Docker, Terraform
+Python (Django), C#, Amazon Web Services, Docker, Terraform, Vault
 
 * Developed infrastructure-as-code supporting deployment under strict compliance
   requirements
@@ -89,7 +89,7 @@ I worked as technical lead of a not-for-profit initiative to develop open source
 annotation services supporting digital research, publishing and pedagogy.
 
 Python (Pyramid), JavaScript (AngularJS), Elasticsearch, PostgreSQL, Amazon Web
-Services, Ansible, Docker
+Services, Docker, Ansible, Terraform
 
 * Contributed to standards for digital annotation as a member of the World Wide
   Web Consortium (W3C) Web Annotations Working Group
@@ -120,20 +120,23 @@ Programming Languages and Tools
     language proposals and Web Platform standards development. I have experience
     with a range of popular frameworks and tools.
 
-:   I am comfortable working in C, C++, Java, Erlang, Ruby, and Go.
+:   I am comfortable working in C, C++, C#, Java, Python, Ruby, Go, and Erlang.
 
 Open Source Maintenance
 :   I have been a committer to the Apache CouchDB database, a maintainer of the
-    Gunicorn WSGI server, and a founder of Apache Annotator (incubating), along
-    with more diffuse and informal contributions to numerous projects.
+    Gunicorn WSGI server, and a founding engineering of Hypothes.is, along with
+    more diffuse and informal contributions to numerous projects.
 
 White House Champions of Change
 :   I co-developed a prototype application for communities to build a directory
     of social services organizations obtaining an invitation to an Open Data
     round-table with administration officials and other honorees.
 
-Other Tools
-:   AWS, Google Cloud, Kubernetes, Terraform, Vault, PostgreSQL
+Education
+---------
+
+2005-2009
+:   **BSc, Computer Science; Brown University (Providence, RI)**
 
 Other skills
 ------------
