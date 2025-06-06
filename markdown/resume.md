@@ -16,7 +16,7 @@ Education
 Employment History
 ------------------
 
-**The New York Times** (Jan. 2020 — Present)
+**The New York Times** (Jan. 2020 — Jun. 2025)
 
 Working across boundaries between product engineering, information security, and
 corporate infrastructure, I accelerated strategic phase transitions to adopt new
