@@ -6,6 +6,7 @@ RUN useradd --user-group --create-home --shell /bin/false app
 ENV HOME=/home/app
 WORKDIR $HOME
 
+ENV DEBIAN_FRONTEND="noninteractive"
 RUN apt-get update && \
     apt-get install -y \
     build-essential \
@@ -31,3 +32,5 @@ USER app
 WORKDIR $HOME/$APP_NAME
 
 RUN make clean
+
+ENTRYPOINT make pdf
